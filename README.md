@@ -25,6 +25,9 @@ This is a small project I made using **HTML, CSS, and JavaScript** (no libraries
 1. Download or clone this repository
 2. Open the `index.html` file in your browser
 3. Start dragging elements, and there you go
+   OR
+Simply use the link below to run the website.
+https://bit.ly/3FU9avS
 
 ## Files
 
