@@ -19,6 +19,7 @@ This is a small project I made using **HTML, CSS, and JavaScript** (no libraries
 - You pick an item from the left sidebar and drag it to the center canvas.
 - Once added, you can click the element to open a small editor on the right.
 - The editor lets you change the properties of the selected element.
+- You can access the working video of the website here. https://drive.google.com/file/d/1BxSe5BwvLMMzPllsw3iIxprYDphQ9MZ_/view?usp=sharing
 
 ## How to Run
 
